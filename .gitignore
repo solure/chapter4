@@ -1,3 +1,7 @@
 #no Debug files
 Debug/
 chapter4/Debug/
+
+#no Realease fiels
+Release/
+chapter4/Release/
