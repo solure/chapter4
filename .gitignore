@@ -5,3 +5,6 @@ chapter4/Debug/
 #no Realease fiels
 Release/
 chapter4/Release/
+
+#no .exe file
+*.exe
